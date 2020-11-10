@@ -6,7 +6,7 @@ Subgatt:
 This is a tensorflow based implementation of Subgraph Attention as discussed in the paper.
 
 Dataset:
-1.  The dataset_class folder contains all the datasets which we used in experiments of graph classification.
+1.  The dataset_graph folder contains all the datasets which we used in experiments of graph classification.
 
 
 How to run: 
