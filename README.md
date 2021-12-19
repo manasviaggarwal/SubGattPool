@@ -31,13 +31,13 @@ Parameters:
 1) For Graph Classification:
 	dataset: The name of the dataset
 	
-	epoch: Number of epochs to train the mdoel
-	sub_samp: Number of subgraph samples for each node
-	sub_leng: The maximum length of any subgraph
-	pool_rt: Pooling ratio
-	pool_lay: Number of SubGattPool layers
-	sub_lay: Number of SubGatt attention layer
-	learning_rate: Learning rate
+	epoch: Number of epochs to train the mdoel;
+	sub_samp: Number of subgraph samples for each node;
+	sub_leng: The maximum length of any subgraph;
+	pool_rt: Pooling ratio;
+	pool_lay: Number of SubGattPool layers;
+	sub_lay: Number of SubGatt attention layer;
+	learning_rate: Learning rate;
 	embd_dim: Embedding dimension
 
 
