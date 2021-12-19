@@ -30,6 +30,7 @@ Requirements:
 Parameters: 
 1) For Graph Classification:
 	dataset: The name of the dataset
+	
 	epoch: Number of epochs to train the mdoel
 	sub_samp: Number of subgraph samples for each node
 	sub_leng: The maximum length of any subgraph
